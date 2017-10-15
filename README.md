@@ -21,7 +21,7 @@ Me han servido de guía, estos libros:
 
 ## Referencias
 
-Hay muchos recursos en línea, mucho en inglés:
+Hay abundantes recursos en línea, generalmente en inglés:
 
 - [Machine learning, Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 - [Aprendizaje automático, Wikipedia](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)
