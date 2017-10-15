@@ -18,9 +18,10 @@ Me han servido de guía, estos libros:
 
 ## Referencias
 
-Para completar
+- [Machine learning, Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+- [Aprendizaje automático, Wikipedia](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)
 
-
+Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
 
 
