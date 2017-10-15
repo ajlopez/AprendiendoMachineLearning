@@ -17,7 +17,9 @@ temas en estos recursos en español.
 Me han servido de guía, estos libros:
 
 - Machine Learning in Action, Peter Harrington, Manning
-- ntroduction to machine learning, Ethem Alpaydin, MIT Press
+- Introduction to machine learning, Ethem Alpaydin, MIT Press
+- Machine Learning, The Art and Science of Algorithms that Make Sense of Data, Peter Flach, Cambridge University Press
+- Artificial Intelligence, A Modern Approach, Stuart J. Russell, Peter Norvig, Prentice Hall (hay edición en español)
 
 ## Referencias
 
