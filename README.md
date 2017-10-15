@@ -30,6 +30,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [CIO’s guide to data analytics and machine learning](https://cloudplatform.googleblog.com/2017/07/CIOs-guide-to-data-analytics-and-machine-learning.html)
 - [5 questions to ask about machine learning](https://news.sophos.com/en-us/2017/07/24/5-questions-to-ask-about-machine-learning/)
 - [Core Differences between Artificial intelligence and Machine Learning](http://bigdataanalyticsnews.com/core-differences-between-artificial-intelligence-machine-learning/)
+- [Applied Machine Learning: The Less Confusing Guide](https://udarajay.com/applied-machine-learning-the-less-confusing-guide/amp/)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
