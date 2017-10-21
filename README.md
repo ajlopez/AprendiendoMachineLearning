@@ -12,6 +12,17 @@ la explicación quede claro cuál es la traducción.
 Pongo varias referencias en inglés, porque es el contenido más difundido. Igual espero poder explicar algunos de los
 temas en estos recursos en español.
 
+## Temas
+
+Los temas a tratar, en este repositorio y otros, son:
+
+- Historia de Machne Learning
+- Algoritmos Genéticos
+- Programación Evolutiva
+- Redes Neuronales
+- Arboles de Decisión
+- Clasificación Automática
+
 ## Libros
 
 Me han servido de guía, estos libros:
