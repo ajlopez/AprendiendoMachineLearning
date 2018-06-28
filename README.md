@@ -45,3 +45,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
+## Presentaciones
+
+- [Introduction to Machine Learning](https://docs.google.com/presentation/d/1mNrAJOqgEj0t6lzq_mVZ74hu5alWVZP7wiSbwSr-1OI)
+
