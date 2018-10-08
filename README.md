@@ -16,10 +16,10 @@ temas en estos recursos en español.
 
 Los temas a tratar, en este repositorio y otros, son:
 
-- Historia de Machne Learning
+- Historia de Machine Learning
 - Algoritmos Genéticos
 - Programación Evolutiva
-- Redes Neuronales
+- [Redes Neuronales](https://github.com/ajlopez/AprendiendoDeepLearning)
 - Arboles de Decisión
 - Clasificación Automática
 
