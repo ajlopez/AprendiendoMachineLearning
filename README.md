@@ -43,6 +43,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Core Differences between Artificial intelligence and Machine Learning](http://bigdataanalyticsnews.com/core-differences-between-artificial-intelligence-machine-learning/)
 - [Applied Machine Learning: The Less Confusing Guide](https://udarajay.com/applied-machine-learning-the-less-confusing-guide/amp/)
 - [Adventures in Machine Learning](http://adventuresinmachinelearning.com/)
+- [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
