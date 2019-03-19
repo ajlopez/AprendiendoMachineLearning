@@ -46,6 +46,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
+- [Adversarial Machine Learning Tutorial](https://aaai18adversarial.github.io/)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
