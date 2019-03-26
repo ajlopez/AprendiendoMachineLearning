@@ -48,6 +48,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 - [Adversarial Machine Learning Tutorial](https://aaai18adversarial.github.io/)
 - [Understanding AI and Machine Learning the Easy Way](https://becominghuman.ai/understanding-ai-and-machine-learning-the-easy-way-dd3ea14f1ad)
+- [The complete beginner’s guide to machine learning: simple linear regression in four lines of code!](https://towardsdatascience.com/simple-linear-regression-in-four-lines-of-code-d690fe4dba84)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
