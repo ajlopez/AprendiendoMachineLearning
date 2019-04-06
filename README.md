@@ -51,6 +51,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [The complete beginner’s guide to machine learning: simple linear regression in four lines of code!](https://towardsdatascience.com/simple-linear-regression-in-four-lines-of-code-d690fe4dba84)
 - [Improving iOS Machine Learning (ML) Capabilities With CoreML](https://becominghuman.ai/improving-ios-machine-learning-ml-capabilities-with-coreml-361d58266fb3)
 - [The history of machine learning](https://www.bbc.com/timelines/zypd97h)
+- [16 Best Resources to Learn AI & Machine Learning in 2019](https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
