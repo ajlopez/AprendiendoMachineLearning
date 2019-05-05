@@ -52,6 +52,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Improving iOS Machine Learning (ML) Capabilities With CoreML](https://becominghuman.ai/improving-ios-machine-learning-ml-capabilities-with-coreml-361d58266fb3)
 - [The history of machine learning](https://www.bbc.com/timelines/zypd97h)
 - [16 Best Resources to Learn AI & Machine Learning in 2019](https://hackernoon.com/16-best-resources-to-learn-ai-machine-learning-in-2019-f95c4f59018b)
+- [Getting Started With Machine Learning](https://medium.com/@smashingmag/getting-started-with-machine-learning-8de782b84c18)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
