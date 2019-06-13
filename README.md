@@ -55,7 +55,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Getting Started With Machine Learning](https://medium.com/@smashingmag/getting-started-with-machine-learning-8de782b84c18)
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 - [Machine Learning — Modeling the future](https://becominghuman.ai/machine-learning-modeling-the-future-17c83818d3e0)
-
+- [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
