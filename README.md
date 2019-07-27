@@ -38,6 +38,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 
 - [Machine learning, Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 - [Aprendizaje automático, Wikipedia](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)
+- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [CIO’s guide to data analytics and machine learning](https://cloudplatform.googleblog.com/2017/07/CIOs-guide-to-data-analytics-and-machine-learning.html)
 - [5 questions to ask about machine learning](https://news.sophos.com/en-us/2017/07/24/5-questions-to-ask-about-machine-learning/)
 - [Core Differences between Artificial intelligence and Machine Learning](http://bigdataanalyticsnews.com/core-differences-between-artificial-intelligence-machine-learning/)
