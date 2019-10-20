@@ -39,6 +39,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 
 - [Machine learning, Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
 - [Aprendizaje automático, Wikipedia](https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico)
+- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [CIO’s guide to data analytics and machine learning](https://cloudplatform.googleblog.com/2017/07/CIOs-guide-to-data-analytics-and-machine-learning.html)
 - [5 questions to ask about machine learning](https://news.sophos.com/en-us/2017/07/24/5-questions-to-ask-about-machine-learning/)
 - [Core Differences between Artificial intelligence and Machine Learning](http://bigdataanalyticsnews.com/core-differences-between-artificial-intelligence-machine-learning/)
@@ -57,7 +58,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 - [Machine Learning — Modeling the future](https://becominghuman.ai/machine-learning-modeling-the-future-17c83818d3e0)
 - [A Tour of the Top 10 Algorithms for Machine Learning](https://builtin.com/data-science/tour-top-10-algorithms-machine-learning-newbies)
-
+- [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
