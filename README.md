@@ -59,6 +59,9 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Machine Learning — Modeling the future](https://becominghuman.ai/machine-learning-modeling-the-future-17c83818d3e0)
 - [A Tour of the Top 10 Algorithms for Machine Learning](https://builtin.com/data-science/tour-top-10-algorithms-machine-learning-newbies)
 - [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
+- [My Shortlist of AI & ML Stuff: Books, Courses and More](https://towardsdatascience.com/my-shortlist-of-ai-ml-stuff-books-courses-and-more-54d6f92ddad9)
+- [Top 10 Great Sites with Free Data Sets](https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
