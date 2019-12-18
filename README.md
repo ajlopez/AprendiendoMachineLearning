@@ -62,6 +62,8 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [My Shortlist of AI & ML Stuff: Books, Courses and More](https://towardsdatascience.com/my-shortlist-of-ai-ml-stuff-books-courses-and-more-54d6f92ddad9)
 - [Top 10 Great Sites with Free Data Sets](https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
