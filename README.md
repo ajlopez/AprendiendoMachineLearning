@@ -63,7 +63,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [Top 10 Great Sites with Free Data Sets](https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-
+- [2020 Advice for Data Scientists: Learn Machine Learning using Amazon Web Services](https://towardsdatascience.com/2020-advise-for-data-scientist-8aba2f938747)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
