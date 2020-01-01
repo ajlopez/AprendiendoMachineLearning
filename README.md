@@ -68,6 +68,7 @@ Hay abundantes recursos en línea, generalmente en inglés:
 - [The Complete Hands-On Machine Learning Crash Course](https://towardsdatascience.com/the-complete-hands-on-machine-learning-crash-course-59e43c8cee52)
 - [Knowledge is Everything: Using Representation Learning to Optimize Feature Extraction and Knowledge Quality](https://towardsdatascience.com/knowledge-is-everything-using-representation-learning-to-optimize-feature-extraction-and-404ce49f7e86)
 - [Three Simple Theories to Help Us Understand Overfitting and Underfitting in Machine Learning Models](https://towardsdatascience.com/three-simple-theories-to-help-us-understand-overfitting-and-underfitting-in-machine-learning-models-54a4905a2222)
+- [AutoML: The Death of Data Scientists](https://towardsdatascience.com/the-death-of-data-scientists-c243ae167701)
 
 Publico regularmente enlaces en mi serie de post [Machine Learning: Links, News And Resources](https://ajlopez.wordpress.com/2011/11/11/machine-learning-links-news-and-resources-1/)
 
